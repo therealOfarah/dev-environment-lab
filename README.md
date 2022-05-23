@@ -1,5 +1,4 @@
 # dev-environment-lab
-# dev-environment-lab
 <img src ="https://i.imgur.com/Rl5k1yf.png"/>
 ## OS
 
@@ -348,4 +347,3 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-# dev-environment-lab
